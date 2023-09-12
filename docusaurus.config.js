@@ -56,7 +56,8 @@ const config = {
         title: '21st Century Learners',
         logo: {
           alt: '21st Century Learners Logo',
-          src: 'https://static.wixstatic.com/media/e06271_9f3702d43a5b4b828954ff56225ea415~mv2.png/v1/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/21st%20Century%20(2).png',
+          src: '/logo.svg',
+          srcDark: '/logo-dark.svg'
         },
         items: [
           {
