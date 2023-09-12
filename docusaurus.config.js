@@ -66,11 +66,6 @@ const config = {
             position: 'left',
             label: 'Intro to Tech',
           },
-          {
-            href: 'https://21stcenturylearners.com',
-            label: '21st Century Learners',
-            position: 'right',
-          },
         ],
       },
       footer: {
