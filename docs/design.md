@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Design
+# Week 2 - Design
 
-### Pre-Class Assignments: 
+## Pre-Class Preparation
 
 1. Access this course website. Since you're already on this page, you're way ahead of the game! Congrats! 👊 
 2. 📽️ 🍿 Watch this YouTube video about the principles of Design (10 mins):  https://www.youtube.com/watch?v=UmHMVU6dceA
@@ -25,14 +25,12 @@ sidebar_position: 1
 
 5. 📽️ 🍿 Watch the first 10 minutes of this video: https://www.youtube.com/watch?v=g3akbrQxISM. It may help to follow along!
 
-## 💪 Exercise
+## Project
 
 Begin working on the following project!
 
 > **Note**
 > Don't worry, if you don't get far, we'll work on this assignment during our next class period.
-
-### Project
 
 You're going to create your very own design for an "About Me" page! 
 

@@ -2,11 +2,15 @@
 sidebar_position: 2
 ---
 
-# Hyper Text Markup Language (HTML)
+# Week 3 - Web Development
 
 _30 min read - Last Updated: August 2023_
 
-## What is HTML
+## Pre-Class Preparation
+
+1. Please read the rest of this web page as preperation for our next class.
+
+### What is HTML
 
 HTML is the World Wide Web's core markup language.
 
@@ -21,7 +25,7 @@ HTML is the World Wide Web's core markup language.
 
 Web browsers parse HTML and use it to structure web pages. But that's not all! HTML documents might be rendered to a screen, or through a speech synthesizer, or on a braille display.
 
-## An Introduction
+### An Introduction
 
 <br />
 
@@ -37,7 +41,7 @@ HTML documents look a little something like this:
 <a href="www.apple.com/store">Click here to start shopping</a>
 ```
 
-### Elements
+#### Elements
 
 HTML documents consist of elements and text. In the example above we have 3 elements:
 
@@ -48,7 +52,7 @@ HTML documents consist of elements and text. In the example above we have 3 elem
 3. `a` - Anchor (aka link)
     - This element is used to represent links
 
-### Nesting
+#### Nesting
 
 Each element is denoted by a start tag `<p>` and an end tag `</p>`. They may optionally have some text in-between.
 
@@ -86,7 +90,7 @@ Three new wild elements have appeared! 👀 _cue pokemon music_ 🎶
 3. `li` - List item
     - This element is used to items of the list. This elements must be nested within the `ul` tags
 
-### Attributes
+#### Attributes
 
 Elements can have attributes, which control how the elements work. In our first example, we created a link like this:
 
@@ -107,13 +111,13 @@ Here's another example:
     - The `src` attribute specifies the location of the image
     - The `alt` attribute is a text description of the image (in case it can't display or someone with a visual impairment can't see this fluff ball 🐈)
 
-### I'm overwhelmed 😳
+#### I'm overwhelmed 😳
 
 As you may suspect, there are [a lot of elements](https://www.w3schools.com/TAGS/default.asp) and attributes!
 
 Luckily, we don't have to memorize it. While we'll become familar with lots of elements, we can always do a quick Google search to find what we're looking for ("how do I make a link again?").
 
-## CSS
+### CSS
 The last element we want to talk about is the `style` element.
 
 By adding a `<style></style>` tag to our HTML, we unlock the ability to modify the appearance of our html by using another language called CSS, or Cascading Style Sheets. CSS is programming language that exists to make HTML look pretty 💅.
@@ -132,7 +136,7 @@ The above snippet selects all of our document's paragraphs (`p` elements), and m
 
 Just like with attributes, there are a lot of different CSS selectors, [properties](https://www.w3schools.com/cssref/index.php), and values we can use! But don't worry, no memorization required. Google what you don't know or want to learn!
 
-## Final Prep
+### 💪 Exercise
 
 On a computer, using a text editor (such as Notepad Windows or TextEdit for Mac) create a new file. Copy and paste the following into you editor:
 
@@ -165,22 +169,23 @@ Play around. What do you want on your website?
 
 As you make changes you'll have to refresh the browser to see those changes. If you run into any difficulties, no worries! Reach out on discord for help. Don't sweat it if you don't get too far, we'll help solidy understanding in class.
 
-## 💪 Exercise
+## Project
 
 _1 - 2 hours_
 
 > **Note**
-> These exercises are not required before class. However, if you'd like to give them a go please do!
+> This project are not required before we meet. However, if you'd like to give them a go please do!
 
-### Project
+Create your "About Me" HTML document based on the design you created with Figma!
 
-Create an "About Me" HTML document.
+- As a reminder, your page should contain:
+    1. A picture of yourself 
+    2. Your name 
+    3. 3 fun facts about yourself 
+    4. 3 links to other pages 
 
-- Your page should contain (as a minimum):
-    - An image of you (or one that represents you)
+- In addition to the above, please include:
     - A summary of yourself
     - A title (Text that appears in the browser window's tab)
-    - 3 external links
-    - A list of facts about you
     - A sprinkle of CSS
-    - Anything else you want to add -- be creative!
+    - Anything else you want to add -- be creative! Maybe a dragon if you are Will.
