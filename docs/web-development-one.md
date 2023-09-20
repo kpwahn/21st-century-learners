@@ -4,8 +4,6 @@ sidebar_position: 2
 
 # Week 3 - Web Development
 
-_30 min read - Last Updated: August 2023_
-
 ## Pre-Class Preparation
 
 1. Please read the rest of this web page as preperation for our next class.
