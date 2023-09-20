@@ -66,6 +66,12 @@ const config = {
             position: 'left',
             label: 'Intro to Tech',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'startYourOwnBusiness',
+            position: 'left',
+            label: 'Start Your Own Business',
+          }
         ],
       },
       footer: {
@@ -76,7 +82,11 @@ const config = {
             items: [
               {
                 label: 'Intro to Tech',
-                to: '/docs/design',
+                to: '/docs/intro-to-tech/1',
+              },
+              {
+                label: 'Start Your Own Business',
+                to: '/docs/start-your-own-business/1',
               },
             ],
           },
@@ -84,7 +94,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
+                label: 'Intro to Tech Discord',
                 href: 'https://discord.gg/NVq4JK8B',
               },
 
