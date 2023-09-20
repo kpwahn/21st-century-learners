@@ -42,4 +42,4 @@ Please include the following on your page in Figma:
 3. 3 fun facts about yourself 
 4. 3 links to other pages 
 
-Good luck! And if you need any help, just post on our [Discord channel!](https://discord.gg/NVq4JK8B) 
+Good luck! And if you need any help, just post on our [Discord server!](https://discord.gg/NVq4JK8B) 
