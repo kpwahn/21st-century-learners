@@ -31,7 +31,7 @@ sidebar_position: 1
 Begin working on the following project!
 
 > **Note**
-> Don't worry, if you don't get far, we'll work on this assignment during our next class period.
+>  Don't worry, if you don't get far, we'll work on this assignment during our next class period.
 
 You're going to create your very own design for an "About Me" page! 
 
@@ -43,3 +43,7 @@ Please include the following on your page in Figma:
 4. 3 links to other pages 
 
 Good luck! And if you need any help, just post on our [Discord server!](https://discord.gg/NVq4JK8B) 
+
+## Feedback
+
+We want to hear from you! Help improve our course for other learners by taking [this quick survey](https://docs.google.com/forms/d/e/1FAIpQLSdrENiLGrwWq7oe-GPvIK89R_gk6_IYDgOHyF4SuwqNcomHIg/viewform) (~3 minutes). Thank you so much!
