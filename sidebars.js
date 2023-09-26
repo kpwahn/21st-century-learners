@@ -19,7 +19,8 @@ const sidebars = {
   ],
   tutorialSidebar: [
     'intro-to-tech/1',
-    'intro-to-tech/2'
+    'intro-to-tech/2',
+    // 'intro-to-tech/3'
   ],
   // But you can create a sidebar manually
   /*
