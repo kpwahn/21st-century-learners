@@ -9,6 +9,7 @@ sidebar_position: 2
 ## Pre-Class Preparation
 
 1. Please read the rest of this web page as preperation for our next class.
+2. Please watch this video: https://www.youtube.com/watch?v=7_LPdttKXPc
 
 ## How the Web Works
 
@@ -22,7 +23,7 @@ The ONLY WAY that the internet works is if all of these connected computers spea
     <summary>
         Tell me more... 🧐
     </summary>
-    For those that are interested, the internet leverages the Hypertext Transfer Protocol (http). Additionally, Transmission Control Protocol and Internet Protocol are communication protocols that define how data should travel across between computers. Anyways... feel free to promptly forget this infromation 😶‍🌫️
+    For those that are interested, the internet leverages the Hypertext Transfer Protocol Secure (https). That's why you often see `https://` at the beginning of urls. Additionally, Transmission Control Protocol and Internet Protocol are communication protocols that define how data should travel across between computers. Anyways... feel free to promptly forget this infromation 😶‍🌫️
 </details>
 
 <br />
@@ -33,7 +34,7 @@ Some devices, like the one you're reading this on, are referred to as "clients."
 
 Other devices are referred to as "servers." Servers are computers dedicated to storing data or processing information, and are (sometimes) in super secure, climate controlled underground bunkers that can withstand power outages or even a nuclear strike from Russia ☠️. They don't usually need a human interface like a screen or keyboard. You've probably seen pictures of servers like this:
 
-<img height="250" src="https://servers.asus.com/upload/images/2023/01-10/962b7173e55240c181f3ca512c1ec25d.jpg" />
+<img height="250" width="250" src="https://servers.asus.com/upload/images/2023/01-10/962b7173e55240c181f3ca512c1ec25d.jpg" />
 
 Believe it or not this is actually pretty accurate!
 
@@ -50,18 +51,11 @@ The web browsers (our "client") is requesting a file that is on our computer (ou
 
 The same things happens whenever we use the internet, but instead of making requests to our own computer, we're making requests to other computers that are also connected to the internet.
 
-** okay ya that's pretty neat and coolio and stuff. Lets put it into action and deploy your website to the world wide web!
+### DNS (Domain Name Servers)
 
-** talk about the steps to deploy something. Talk about free domain names. Talk about DNS/ IP address? By the end they should have a url.
-** Bonus points if they have it deployed somewhere elee.
+Please watch this video: https://www.youtube.com/watch?v=2WdF1zT01HY
 
-_X hours_
+Domain Name Servers exist to translate computer internet protocol (IP) addresses in words that are easier for humans to understand.
 
 ### Project
-Deploy your website to the world! Here are the steps, follow them, etc. etc.
-
-
-
-
-
-TO CONSIDER: If this is too short, we could do a mini JS portion -- have them add some that fetches a dad joke -- would be good for prepping for cybersecurity ddos topic.
+Coming soon!
