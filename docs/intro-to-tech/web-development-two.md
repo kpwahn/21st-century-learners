@@ -58,4 +58,36 @@ Please watch this video: https://www.youtube.com/watch?v=2WdF1zT01HY
 Domain Name Servers exist to translate computer internet protocol (IP) addresses in words that are easier for humans to understand.
 
 ### Project
-Coming soon!
+
+Deploy your web site to the world! You can do so by following these steps:
+
+1. Create a [Github](https://github.com/) account.
+2. Follow the instructions at https://pages.github.com/. 
+3. Make sure you select "Project Site"
+
+<img width="500" src="/github01.png" />
+<br />
+
+4. Make sure you select "Start from scratch"
+
+<img width="500" src="/github02.png" />
+<br />
+
+5. Create a repository. Name it `about-me`.
+6. Make sure you check "Add a README file"
+
+<img width="450" src="/github03.png" />
+<br />
+
+7. Instead of "create new files" choose "upload files"
+<img width="250" src="/github04.png" />
+<br />
+
+8. Upload your html file
+9. Click commit new file
+10. From the settings tab, select "main" and hit save
+<img width="500" src="/github05.png" />
+<br />
+
+11. http://username.github.io/repository where `username` is your Github username and `repository` is the name of your repository `about-me`
+12. Your site is live!
