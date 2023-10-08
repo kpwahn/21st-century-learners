@@ -1,6 +1,5 @@
 ---
 id: 2
-sidebar_position: 2
 ---
 
 # Week 3 - Web Development

@@ -1,6 +1,5 @@
 ---
 id: 3
-sidebar_position: 2
 ---
 
 
@@ -89,5 +88,5 @@ Deploy your web site to the world! You can do so by following these steps:
 <img width="500" src="/github05.png" />
 <br />
 
-11. http://username.github.io/repository where `username` is your Github username and `repository` is the name of your repository `about-me`
+11. http://username.github.io/repository/hello.html where `username` is your Github username and `repository` is the name of your repository `about-me`. Also make sure the last part of the url matched your html file name i.e. (`hello.html`). Here's mine for an example: 
 12. Your site is live!

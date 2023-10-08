@@ -1,6 +1,5 @@
 ---
 id: 1
-sidebar_position: 1
 ---
 
 # Week 2 - Design

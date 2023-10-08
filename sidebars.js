@@ -15,12 +15,15 @@
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   startYourOwnBusiness: [
-    'start-your-own-business/1'
+    'start-your-own-business/1',
+    'start-your-own-business/2',
+    'start-your-own-business/3'
   ],
   tutorialSidebar: [
     'intro-to-tech/1',
     'intro-to-tech/2',
-    'intro-to-tech/3'
+    'intro-to-tech/3',
+    // 'intro-to-tech/4',
   ],
   // But you can create a sidebar manually
   /*
