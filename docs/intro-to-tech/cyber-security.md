@@ -18,6 +18,7 @@ id: 4
     5. How can you tell if a website is safe to visit? <br />
 </details>
 
+2. 📽️ 🍿 Watch [this YouTube video about Cybersecurity & Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y)
 
 ## Project
 
