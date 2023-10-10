@@ -23,7 +23,7 @@ const sidebars = {
     'intro-to-tech/1',
     'intro-to-tech/2',
     'intro-to-tech/3',
-    // 'intro-to-tech/4',
+    'intro-to-tech/4',
   ],
   // But you can create a sidebar manually
   /*
